@@ -16,12 +16,12 @@ export default function Header() {
                 Unleash your creativity with AL. Turn your 
                 imagination into visual art in secoond - just type, and watch the magic happen
             </p>
-            <button className='sm:text-lg text-white bg-black w-auto mt-8 px-12 py-2.5 flex items-center gap-4 rounded-full '>
+            {/* <button className='sm:text-lg text-white bg-black w-auto mt-8 px-12 py-2.5 flex items-center gap-4 rounded-full '>
                 Generate Images
                 <img className='h-6' src="https://media.istockphoto.com/vectors/photo-icon-on-black-background-black-flat-style-vector-illustration-vector-id1169954465?k=6&m=1169954465&s=170667a&w=0&h=X29kwgBSvAfpJ-lzf_Yg55EXz-UM4POjUwnv6sOBBYY=" alt="" />
-            </button>
+            </button> */}
             <div className="">
-                
+
             </div>
     </div>
   )
