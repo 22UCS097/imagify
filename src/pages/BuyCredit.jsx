@@ -1,5 +1,7 @@
 import React, { useContext } from 'react'
 import { AppContext } from '../context/AppContext'
+import {motion} from 'framer-motion'
+
 
 export default function BuyCredit() {
    
